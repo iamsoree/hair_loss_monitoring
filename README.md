@@ -18,7 +18,7 @@
 #### **(FUNCTION 3) YOLO11N**
 ## **Ⅲ. (DL) 모델 경량화**
 #### **(FUNCTION 1) EFFICIENTNET_V2_S**
-#### **(FUNCTION 3) YOLO11N**
+#### **(FUNCTION 3) YOLO 11N**
 ## **Ⅳ. 모델 배포**
 #### **1. 실시간 처리 방식 (BY Raspberry Pi)**
 ##### **1-1. FUNCTION 1 + FUNCTION 3**
