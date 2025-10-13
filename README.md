@@ -1,6 +1,6 @@
 # **탈모 진행 단계별 모니터링 시스템;**
 ### **두피와 머리카락 분석을 통한 추적 관리 및 예측 모델링**
-<br>  
+&nbsp;
 ## **Ⅰ. 모델 개요**
 ##### **`FUNCTION 1` : 탈모 상태 분류 (4개)**
 &ensp;&ensp;✓&ensp;DL&ensp;&rarr;&ensp;<u>CNN</u>  
@@ -13,16 +13,16 @@
 &ensp;&ensp;✓&ensp;DL&ensp;&rarr;&ensp;<u>Object Detection</u>  
 &ensp;&ensp;✓&ensp;MODEL&ensp;&rarr;&ensp;<u>YOLO 11N</u>  
 &ensp;&ensp;✓&ensp;경량화
-<br>  
+&nbsp;
 ## **Ⅱ. 모델 구축**
 #### **(FUNCTION 1) EFFICIENTNET_V2_S**
 #### **(FUNCTION 2) K-MEANS CLUSTERING**
 #### **(FUNCTION 3) YOLO 11N**
-<br>  
+&nbsp;
 ## **Ⅲ. (DL) 모델 경량화**
 #### **(FUNCTION 1) EFFICIENTNET_V2_S**
 #### **(FUNCTION 3) YOLO 11N**
-<br>  
+&nbsp;
 ## **Ⅳ. 모델 배포**
 #### **1. 실시간 처리 방식 (BY Raspberry Pi)**
 ##### **1-1. FUNCTION 1 + FUNCTION 3**
