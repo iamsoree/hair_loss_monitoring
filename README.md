@@ -15,7 +15,7 @@
 ## **Ⅱ. 모델 구축**
 #### **(FUNCTION 1) EFFICIENTNET_V2_S**
 #### **(FUNCTION 2) K-MEANS CLUSTERING**
-#### **(FUNCTION 3) YOLO11N**
+#### **(FUNCTION 3) YOLO 11N**
 ## **Ⅲ. (DL) 모델 경량화**
 #### **(FUNCTION 1) EFFICIENTNET_V2_S**
 #### **(FUNCTION 3) YOLO 11N**
