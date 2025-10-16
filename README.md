@@ -13,13 +13,16 @@
 &ensp;&ensp;✓&ensp;DL&ensp;&rarr;&ensp;<u>Object Detection</u>  
 &ensp;&ensp;✓&ensp;MODEL&ensp;&rarr;&ensp;<u>YOLO 11N</u>  
 &ensp;&ensp;✓&ensp;경량화
+test
 ## **Ⅱ. 모델 구축**
 #### **(FUNCTION 1) EFFICIENTNET_V2_S**
 #### **(FUNCTION 2) K-MEANS CLUSTERING**
 #### **(FUNCTION 3) YOLO 11N**
+test
 ## **Ⅲ. (DL) 모델 경량화**
 #### **(FUNCTION 1) EFFICIENTNET_V2_S**
 #### **(FUNCTION 3) YOLO 11N**
+test
 ## **Ⅳ. 모델 배포**
 #### **1. 실시간 처리 방식 (BY Raspberry Pi)**
 ##### **1-1. FUNCTION 1 + FUNCTION 3**
