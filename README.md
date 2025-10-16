@@ -12,7 +12,7 @@
 ### **`FUNCTION 3` : 모공 하나 당 머리카락 개수**
 &ensp;&ensp;✓&ensp;DL&ensp;&rarr;&ensp;<u>Object Detection</u>  
 &ensp;&ensp;✓&ensp;MODEL&ensp;&rarr;&ensp;<u>YOLO 11N</u>  
-&ensp;&ensp;✓&ensp;경량화
+&ensp;&ensp;✓&ensp;경량화  
 test
 ## **Ⅱ. 모델 구축**
 #### **(FUNCTION 1) EFFICIENTNET_V2_S**
